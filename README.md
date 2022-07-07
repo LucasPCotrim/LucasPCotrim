@@ -14,7 +14,7 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cotrim-7bab121a/)](https://www.linkedin.com/in/lucas-cotrim-7bab121a/)
 [![Research Gate Badge](https://img.shields.io/badge/-ResearchGate-brigthgreen?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Lucas-Pereira-Cotrim3)](https://www.researchgate.net/profile/Lucas-Pereira-Cotrim)
 
-<div align="left">
+<div align="left" width="40%">
 <h3>Programming Languages</h3>
 <img align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPCotrim&count_private=true&show_icons=true" alt="My Github most used languages">
 </div>
