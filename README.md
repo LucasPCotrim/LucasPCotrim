@@ -22,13 +22,13 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
 <div>
   <div>
   <h3>My Repositories<h3>
-  <a href="https://github.com/LucasPCotrim/ControleRoboManipulador">
+  <a width="32%" href="https://github.com/LucasPCotrim/ControleRoboManipulador">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=ControleRoboManipulador&show_icons=true" alt="My github repository">
   </a>
-  <a href="https://github.com/LucasPCotrim/projeto6-buzzquizz">
+  <a width="32%" href="https://github.com/LucasPCotrim/projeto6-buzzquizz">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto6-buzzquizz&show_icons=true" alt="My github repository">
   </a>
-  <a href="https://github.com/LucasPCotrim/projeto4-parrotscardgame">
+  <a width="32%"href="https://github.com/LucasPCotrim/projeto4-parrotscardgame">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto4-parrotscardgame&show_icons=true" alt="My github repository">
   </a>
   </div>
