@@ -31,6 +31,9 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   <a width="32%"href="https://github.com/LucasPCotrim/projeto4-parrotscardgame">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto4-parrotscardgame&show_icons=true" alt="My github repository">
   </a>
+  <a width="32%"href="https://github.com/LucasPCotrim/PythonKukaRL">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=PythonKukaRL&show_icons=true" alt="My github repository">
+  </a>
   </div>
   
   <div>
