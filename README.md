@@ -25,10 +25,12 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   <a href="https://github.com/LucasPCotrim/ControleRoboManipulador">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=ControleRoboManipulador&show_icons=true" alt="My github repository">
   </a>
-  
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto6-buzzquizz&show_icons=true" alt="My github repository">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto4-parrotscardgame&show_icons=true" alt="My github repository">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto4-parrotscardgame&show_icons=true" alt="My github repository">
+  <a href="https://github.com/LucasPCotrim/projeto6-buzzquizz">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto6-buzzquizz&show_icons=true" alt="My github repository">
+  </a>
+  <a href="https://github.com/LucasPCotrim/projeto4-parrotscardgame">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto4-parrotscardgame&show_icons=true" alt="My github repository">
+  </a>
   </div>
   
   <div>
