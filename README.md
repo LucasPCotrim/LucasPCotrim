@@ -5,7 +5,7 @@
   <h3>Software Developer, Mechatronic Engineer and Professor, São Paulo - Brazil 🌎</h3><br>
 </div>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&show_icons=true" alt="My github stats">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=false&show_owner=true" alt="My github stats">
 
 My name is Lucas Cotrim. I'm a Software Developer, Msc. Student in Control and Mechanical Automation Engineering at USP and Reinforcement Learning Professor at Instituto Mauá de Tecnologia.
 
@@ -16,23 +16,17 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
 
 <div align="left">
 <h3>Programming Languages</h3>
-<img align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPCotrim&count_private=true&show_icons=true" alt="My Github most used languages">
+<img align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPCotrim&count_private=true&show_icons=true&theme=onedark&hide_border=false&&layout=compact" alt="My Github most used languages">
 </div>
 
 <div>
   <div>
   <h3>My Repositories<h3>
-  <a width="32%"href="https://github.com/LucasPCotrim/PythonKukaRL">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=PythonKukaRL&show_icons=true" alt="My github repository">
+  <a width="30%"href="https://github.com/LucasPCotrim/PythonKukaRL">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=PythonKukaRL&show_icons=true" alt="My github repository">
   </a>
-  <a width="32%" href="https://github.com/LucasPCotrim/ControleRoboManipulador">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=ControleRoboManipulador&show_icons=true" alt="My github repository">
-  </a>
-  <a width="32%" href="https://github.com/LucasPCotrim/projeto6-buzzquizz">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto6-buzzquizz&show_icons=true" alt="My github repository">
-  </a>
-  <a width="32%"href="https://github.com/LucasPCotrim/projeto4-parrotscardgame">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto4-parrotscardgame&show_icons=true" alt="My github repository">
+  <a width="30%" href="https://github.com/LucasPCotrim/projeto6-buzzquizz">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto6-buzzquizz&show_icons=true" alt="My github repository">
   </a>
   </div>
   
