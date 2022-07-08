@@ -36,6 +36,12 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   </div>
 </div>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/weillercarvalho/weillercarvalho/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 
 <!--
 **LucasPCotrim/LucasPCotrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
