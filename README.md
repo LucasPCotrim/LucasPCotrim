@@ -5,7 +5,7 @@
   <h3>Software Developer, Mechatronic Engineer and Professor, São Paulo - Brazil 🌎</h3><br>
 </div>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=false&show_owner=true" alt="My github stats">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&theme=onedark" alt="My github stats">
 
 My name is Lucas Cotrim. I'm a Software Developer, Msc. Student in Control and Mechanical Automation Engineering at USP and Reinforcement Learning Professor at Mauá Institute of Technology.
 
