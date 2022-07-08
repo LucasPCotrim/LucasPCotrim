@@ -7,7 +7,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=false&show_owner=true" alt="My github stats">
 
-My name is Lucas Cotrim. I'm a Software Developer, Msc. Student in Control and Mechanical Automation Engineering at USP and Reinforcement Learning Professor at Instituto Mauá de Tecnologia.
+My name is Lucas Cotrim. I'm a Software Developer, Msc. Student in Control and Mechanical Automation Engineering at USP and Reinforcement Learning Professor at Mauá Institute of Technology.
 
 I've been working with **HTML**, **CSS**, **Javascript** for Web Development and **Python** for Data Science and Machine Learning applications. Currently I'm learning **React**, **Node.js** and **Typescript**.
 
