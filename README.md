@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>LucasPCotrim</h1>
-  <h3>Software Engineer, MSc. and Professor, São Paulo - Brazil 🌎</h3><br>
+  <h3>Software Developer, Mechatronic Engineer and Professor, São Paulo - Brazil 🌎</h3><br>
 </div>
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&show_icons=true" alt="My github stats">
