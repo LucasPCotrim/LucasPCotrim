@@ -25,8 +25,8 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   <a width="30%"href="https://github.com/LucasPCotrim/PythonKukaRL">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=PythonKukaRL&show_icons=true" alt="My github repository">
   </a>
-  <a width="30%" href="https://github.com/LucasPCotrim/projeto6-buzzquizz">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto6-buzzquizz&show_icons=true" alt="My github repository">
+  <a width="30%" href="https://github.com/LucasPCotrim/projeto10-trackit">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto10-trackit&show_icons=true" alt="My github repository">
   </a>
   </div>
   
