@@ -32,6 +32,7 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   
   <div>
   <h3>Info</h3>
+  <a href="https://www.lucascotrim.com">https://www.lucascotrim.com</a>
   - 📫 How to reach me: <a href="mailto: lucaspcotrim@gmail.com">lucaspcotrim@gmail.com</a>, <a href="mailto: lucas.cotrim@usp.br">lucas.cotrim@usp.br</a>
   </div>
 </div>
