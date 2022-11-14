@@ -44,7 +44,6 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   <h3>Other Stats</h3>
   <img align="left" width="30%" src="https://leetcard.jacoblin.cool/LucasCotrim" alt="My LeetCode stats">
   <img align="left" width="30%" src="https://github.r2v.ch/codewars?user=LucasPCotrim&stroke=%23BB432C" alt="My LeetCode stats">
-  ![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
 </div>
 
 
