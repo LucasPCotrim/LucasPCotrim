@@ -45,7 +45,6 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   <h4>LeetCode</h4>
   <img align="left" width="50%" src="https://leetcard.jacoblin.cool/LucasCotrim" alt="My LeetCode stats">
 </div>
-<br>
 <div>
   <h4>Codewars</h4>
   <img align="left" width="50%" src="https://github.r2v.ch/codewars?user=LucasPCotrim&stroke=%23BB432C" alt="My LeetCode stats">
