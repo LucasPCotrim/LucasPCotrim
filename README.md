@@ -6,7 +6,7 @@
 </div>
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&theme=onedark" alt="My github stats">
-<img align="right" width="50%" src="[https://github-readme-stats.vercel.app/api?username=LucasPCotrim&count_private=true&theme=onedark](https://leetcard.jacoblin.cool/LucasCotrim)" alt="My LeetCode stats">
+<img align="right" width="50%" src="https://leetcard.jacoblin.cool/LucasCotrim" alt="My LeetCode stats">
 
 My name is Lucas Cotrim. I'm a Software Developer, Msc. Student in Control and Mechanical Automation Engineering at USP and Reinforcement Learning Professor at Mauá Institute of Technology.
 
