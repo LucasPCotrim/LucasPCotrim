@@ -40,7 +40,7 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
   </div>
 </div>
 
-<div>
+<div style='display:flex; flex-direction: column'>
   <h3>Other Stats</h3>
   <div>
     <h4>LeetCode</h4>
