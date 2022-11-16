@@ -41,7 +41,7 @@ I've been working with **HTML**, **CSS**, **Javascript** for Web Development and
 </div>
 
 <h3>Other Stats</h3>
-  <img align="left" width="40%" src="https://leetcard.jacoblin.cool/LucasCotrim" alt="My LeetCode stats">
+  <a href="https://leetcode.com/LucasCotrim/"><img align="left" width="40%" src="https://leetcard.jacoblin.cool/LucasCotrim" alt="My LeetCode stats"></a>
   <img align="right" width="40%" src="https://github.r2v.ch/codewars?user=LucasPCotrim&stroke=%23BB432C" alt="My LeetCode stats">
 </div>
 
