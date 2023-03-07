@@ -26,8 +26,8 @@ I've been working with **React** and **Node.js** for Web Development and **Pytho
   <a width="30%"href="https://github.com/LucasPCotrim/PythonKukaRL">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=PythonKukaRL&show_icons=true&theme=onedark" alt="My github repository">
   </a>
-  <a width="30%" href="https://github.com/LucasPCotrim/projeto10-trackit">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=projeto10-trackit&show_icons=true&theme=onedark" alt="My github repository">
+  <a width="30%" href="https://github.com/LucasPCotrim/deckhub">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPCotrim&repo=deckhub&show_icons=true&theme=onedark" alt="My github repository">
   </a>
   </div>
   
